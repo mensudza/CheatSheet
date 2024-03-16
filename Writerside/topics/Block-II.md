@@ -1,6 +1,6 @@
-# CSC325 Security
+# Linux Workshop
 
-<chapter title="Linux Workshop" id="csc325-workshop">
+
    <p>This section is a review of three labs about managing system with Linux</p>
    <chapter title="Workshop#1" id="csc325-workshop1" collapsible="true">
 
@@ -49,8 +49,8 @@ tail –n 10 /etc/shadow
 
    </chapter>
 
-<chapter title="Linux Cheat Sheet" id="csc325-workshop-summary" collapsible="true">
-    
+<chapter title="Cheat Sheet" id="csc325-workshop-summary" collapsible="true">
+
 |   **Command**   | **Description** | **Optional** |
 |:---------------:|:-----------:|:--------:|
 |     useradd     |             |          |
@@ -64,4 +64,3 @@ tail –n 10 /etc/shadow
 
 </chapter>
 
-</chapter>
