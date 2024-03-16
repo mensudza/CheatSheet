@@ -10,4 +10,20 @@
         <description>Created after removal of "hi" from Cheat Sheet by 🦔</description>
         <accepts>hi.html</accepts>
     </rule>
+    <rule id="2b3154d7">
+        <description>Created after removal of "Linux Workshop" from Cheat Sheet by 🦔</description>
+        <accepts>Block-II.html</accepts>
+    </rule>
+    <rule id="1b2f8d6c">
+        <description>Created after removal of "Block I" from Cheat Sheet by 🦔</description>
+        <accepts>Block-I.html</accepts>
+    </rule>
+    <rule id="28c92188">
+        <description>Created after removal of "Block III" from Cheat Sheet by 🦔</description>
+        <accepts>Block-III.html</accepts>
+    </rule>
+    <rule id="605491ca">
+        <description>Created after removal of "CSC325 Security" from Cheat Sheet by 🦔</description>
+        <accepts>CSC325-Security.html</accepts>
+    </rule>
 </rules>

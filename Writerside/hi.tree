@@ -7,9 +7,9 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
-    <toc-element topic="CSC325-Security.md">
-        <toc-element topic="Block-II.md"/>
+    <toc-element topic="CSC325-Workshop.md">
         <toc-element topic="Block-I.md"/>
+        <toc-element topic="Block-II.md"/>
         <toc-element topic="Block-III.md"/>
     </toc-element>
 </instance-profile>
