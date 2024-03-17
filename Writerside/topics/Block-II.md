@@ -402,6 +402,7 @@ firewall-cmd --reload
 </code-block>
 </li>
 </list>
+</step>
 <step>
 To test the web service, open http://[your host IP address] on a browser. 
 </step>
@@ -484,8 +485,6 @@ Use the ls command to display the file permission and SELinux label on the direc
 <step>
 <p>Open http://[your host IP address] on a browser again. Do you see your html page?</p>
 <tip>Yes</tip>
-</step>
-
 </step>
 </procedure>
 </chapter>
