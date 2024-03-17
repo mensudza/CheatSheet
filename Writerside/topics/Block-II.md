@@ -318,15 +318,15 @@ setfacl -d -m u:trainee2:r /share/case_x
 <step>
 <p>Switch to mentor1, trainee1, and trainee2 for testing the following operations:</p>
 <code-block>
-sudo –I –u <username>”
+sudo –I –u [username]
 cd /share/case_x
 cat text1
 ./hello1
-echo “hello” > <username>.txt
-mkdir <username>.dir
-echo hello > <username>.dir/test.txt
-ls –ld <username>.dir
-ls –l <username>.dir
+echo “hello” > [username].txt
+mkdir [username].dir
+echo hello > [username].dir/test.txt
+ls –ld [username].dir
+ls –l [username].dir
 </code-block>
 </step>
 
@@ -439,7 +439,7 @@ chmod 755 /mywww/*
 </step>
 
 <step>
-<p>Open http://<your host IP address> on a browser again. Do you see your html page? Why? </p>
+<p>Open http://[your host IP address] on a browser again. Do you see your html page? Why? </p>
 <tip>No, because only file permission was edited, but there also protected by SELinux </tip>
 </step>
 
