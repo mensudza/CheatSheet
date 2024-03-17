@@ -7,6 +7,10 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
+    <toc-element topic="CSC319-Advance-Java.md">
+        <toc-element topic="Class-Diagram.md"/>
+        <toc-element topic="Workshop.md"/>
+    </toc-element>
     <toc-element topic="CSC325-Workshop.md">
         <toc-element topic="Block-I.md"/>
         <toc-element topic="Block-II.md"/>
